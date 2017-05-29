@@ -1,4 +1,4 @@
-//META{"name":"dblClickEdit"}*//
+/META{"name":"dblClickEdit"}*/
 
 var dblClickEdit = function () {};
 
